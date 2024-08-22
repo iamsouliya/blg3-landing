@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <header class="bg-forest-green text-white p-4 shadow-lg">
+  <header class="bg-forest-green text-white py-4 shadow-lg">
     <div class="container mx-auto flex justify-between items-center">
       <h1 class="text-2xl font-bold">
         Blue Lagoon 3
