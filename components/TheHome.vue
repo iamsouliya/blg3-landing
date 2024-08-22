@@ -1,11 +1,12 @@
 <!-- components/HomePage.vue -->
 <script setup>
+import Button from '@/components/ui/button/Button.vue'
 </script>
 
 <template>
   <div class="space-y-16">
     <!-- Hero Section -->
-    <section class="relative h-screen flex items-center justify-center bg-cover bg-center text-white" style="background-image: url('/images/blue-lagoon-3-hero.jpg');">
+    <section class="relative h-screen flex items-center justify-center bg-cover bg-center text-white" style="background-image: url('hero.jpg');">
       <div class="absolute inset-0 bg-black opacity-50" />
       <div class="relative z-10 text-center max-w-lg">
         <h1 class="text-4xl font-bold">
@@ -14,7 +15,7 @@
         <p class="mt-4 text-lg">
           Discover the serene beauty of Vang Vieng’s hidden gem.
         </p>
-        <Button variant="primary" class="mt-8">
+        <Button class="mt-8">
           Plan Your Visit
         </Button>
       </div>
