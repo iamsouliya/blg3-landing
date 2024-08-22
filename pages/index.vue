@@ -4,8 +4,6 @@
 
 <template>
   <div>
-    <Button>
-      Hello World!
-    </Button>
+    <TheHome />
   </div>
 </template>

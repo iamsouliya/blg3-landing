@@ -8,16 +8,16 @@
         Blue Lagoon 3
       </h1>
       <nav class="flex space-x-4">
-        <NuxtLink to="/" class="hover:text-turquoise-blue">
+        <NuxtLink to="/" class="hover:text-turquoise-blue hover:underline">
           Home
         </NuxtLink>
-        <NuxtLink to="/about" class="hover:text-turquoise-blue">
+        <NuxtLink to="/about" class="hover:text-turquoise-blue hover:underline">
           About
         </NuxtLink>
-        <NuxtLink to="/gallery" class="hover:text-turquoise-blue">
+        <NuxtLink to="/gallery" class="hover:text-turquoise-blue hover:underline">
           Gallery
         </NuxtLink>
-        <NuxtLink to="/contact" class="hover:text-turquoise-blue">
+        <NuxtLink to="/contact" class="hover:text-turquoise-blue hover:underline">
           Contact
         </NuxtLink>
       </nav>
