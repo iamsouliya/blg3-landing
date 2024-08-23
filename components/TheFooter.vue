@@ -17,8 +17,12 @@
         </NuxtLink>
       </div>
       <div class="mt-4">
-        <a href="https://facebook.com" target="_blank" class="hover:text-turquoise-blue">Facebook</a>
-        <a href="https://instagram.com" target="_blank" class="ml-4 hover:text-turquoise-blue">Instagram</a>
+        <NuxtLink href="https://facebook.com" target="_blank" class="hover:text-turquoise-blue">
+          Facebook
+        </NuxtLink>
+        <NuxtLink href="https://instagram.com" target="_blank" class="ml-4 hover:text-turquoise-blue">
+          Instagram
+        </NuxtLink>
       </div>
     </div>
   </footer>
