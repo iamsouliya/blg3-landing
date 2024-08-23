@@ -37,17 +37,17 @@ import { Card } from '@/components/ui/card/'
       <h2 class="text-3xl font-semibold text-center text-primary">
         Gallery
       </h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mt-8">
-        <div>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 mt-8">
+        <li>
           <NuxtImg src="https://res.cloudinary.com/db2cje7en/image/upload/v1724404130/blue-lagoon3-entrance_t2j19d.jpg" alt="Blue Lagoon 3" class="rounded-lg shadow-md w-full h-[250px]" />
-        </div>
-        <div>
+        </li>
+        <li>
           <NuxtImg src="https://res.cloudinary.com/db2cje7en/image/upload/v1724404125/blue-lagoon3-2_kvrium.jpg" alt="Blue Lagoon 3" class="rounded-lg shadow-md w-full h-[250px]" />
-        </div>
-        <div>
+        </li>
+        <li>
           <NuxtImg src="https://res.cloudinary.com/db2cje7en/image/upload/v1724404111/Vang-Vieng-Blue-Lagoon-Jumping-platform_ibftxy.jpg" alt="Blue Lagoon 3" class="rounded-lg shadow-md w-full h-[250px]" />
-        </div>
-      </div>
+        </li>
+      </ul>
     </section>
 
     <!-- Activities Section -->
