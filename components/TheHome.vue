@@ -59,10 +59,18 @@ import { Card } from '@/components/ui/card/'
         Explore a range of activities at Blue Lagoon 3 including:
       </p>
       <ul class="mt-4 space-y-2 text-muted-foreground">
-        <li>Swimming in crystal clear waters</li>
-        <li>Hiking trails through the lush forest</li>
-        <li>Relaxing on the natural stone benches</li>
-        <li>Enjoying local Laotian food at the nearby restaurants</li>
+        <li>Jumping Platforms: Enjoy thrilling jumps from platforms approximately 10 to 15 meters high into the lagoon.</li>
+        <li>Rope Swings: Experience the excitement of swinging out over the water before letting go and splashing down.</li>
+        <li>Kayaking: Rent kayaks to explore the serene waters of the lagoon at your own pace.</li>
+        <li>Rubber Tubes: Relax and float on rubber tubes, perfect for a leisurely day in the water.</li>
+        <li>
+          Cave Exploration: Visit nearby Phaboun Cave for a small trekking adventure and enjoy scenic views.
+        </li>
+        <li>Chill-Out Huts: Take a break in shaded huts scattered around the lagoon, ideal for relaxing and enjoying the surroundings.</li>
+        <li>Food and Refreshments: Grab snacks and drinks from local vendors available at the lagoon.</li>
+        <li>
+          Small Waterfall: Enjoy the sight of a small waterfall located just outside the swimming area, adding to the natural beauty of the site.
+        </li>
       </ul>
     </Card>
 
